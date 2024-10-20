@@ -1,0 +1,41 @@
+body{
+  background-color: azure;
+}
+div{
+    background-color:black;
+    border:solid rgb(46, 44, 31);
+    border-width: 5px;
+    font-family:Libre Baskerville ;
+    font: size 30px;
+    margin:30px;
+    padding: 40px;
+}
+.image{
+     background-color: bisque;
+     height: 300px;
+     width:100%;
+}  
+h2{
+  color:darkkhaki;
+  text-align:center ;
+  text-transform: uppercase;
+  font-size:2rem;
+}
+p{
+  color:antiquewhite;
+  text-align:end;
+}
+div{
+  background-color:black;
+  border:solid rgb(46, 44, 31);
+  border-width: 5px;
+  font-family:Libre Baskerville ;
+  font: size 30px;
+  margin:30px;
+  padding: 40px;
+}
+.image{
+   background-color: bisque;
+   height: 300px;
+   width:100%;
+}
